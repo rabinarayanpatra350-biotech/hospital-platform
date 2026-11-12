@@ -1,5 +1,9 @@
 # Jaipur Health TPA — Clinic Appointment & e-Prescription Platform
 
+[![CI](https://github.com/rabinarayanpatra350-biotech/hospital-platform/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/rabinarayanpatra350-biotech/hospital-platform/actions/workflows/ci.yml)
+[![Live](https://img.shields.io/badge/live-rabinarayanpatra350--biotech.github.io-0f5132)](https://rabinarayanpatra350-biotech.github.io/hospital-platform/)
+[![Tests](https://img.shields.io/badge/tests-97%20passing-15803d)](#testing)
+
 A complete clinic platform for a fictional Jaipur health-insurance TPA covering **four hospitals**:
 appointments, admissions, e-prescriptions and a claims dashboard reporting **average length of stay,
 bed occupancy and 30-day readmission**.
